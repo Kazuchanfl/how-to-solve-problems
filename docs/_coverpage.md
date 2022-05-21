@@ -6,5 +6,5 @@
 これまでの開発経験で実践したことを棚卸しつつ  
 今後さらに実践して学んだことを加筆していきます。
 
-[GitHub](https://github.com/docsifyjs/docsify/)
+[GitHub](https://github.com/Kazuchanfl/how-to-solve-problems/)
 [Get Started](#エンジニアのための問題解決技法)
