@@ -7,4 +7,4 @@
 今後さらに実践して学んだことを加筆していきます。
 
 [GitHub](https://github.com/Kazuchanfl/how-to-solve-problems/)
-[Get Started](#エンジニアのための問題解決技法)
+[Get Started](#概要)
